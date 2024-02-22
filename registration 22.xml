@@ -8,7 +8,7 @@
 <body align="center">
     <h1 align="center"><b><u>Student Registration Form Using Table in HTML</u></b></h1>
     <div class="grand" align="center">
-        <table align="center">
+        <table align="left">
             <tr>
                 <td>
                     <label for="fname">First Name</label>
